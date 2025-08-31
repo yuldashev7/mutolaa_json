@@ -7,5 +7,17 @@
   },
   "dependencies": {
     "json-server": "^0.17.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuldashev7/mutolaa_json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuldashev7/mutolaa_json/issues"
+  },
+  "homepage": "https://github.com/yuldashev7/mutolaa_json#readme",
+  "description": ""
 }
